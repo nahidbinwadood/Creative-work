@@ -240,7 +240,7 @@ footer{
 .footer-content{
     font-size: 15px;
 }
-.project-image img{
-  max-width: 320px;
+.project-image img,.content-image{
+  max-width: 300px;
 }
 }
